@@ -1,0 +1,25 @@
+
+/*style.css*/
+
+body {
+  height:100%;
+  text-align:center;
+  font-size:250px;
+}
+
+.wrapper{
+  width:100%;
+  text-align:center;
+  color: #5b69ef;
+  margin:0 auto;
+}
+
+
+h1,h2, h3 {
+  width:100%;
+  text-align:center;
+  color: #5b69ef;
+  margin:0 auto;
+}
+
+
