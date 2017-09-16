@@ -1,0 +1,22 @@
+
+
+
+html {
+background: black;
+background-size: cover;
+font-weight: bold;
+font-size: 20px;
+}
+
+.wrapper {
+background: black;
+font-family: "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-weight: bolder;
+color: gray;
+text-align: center;
+font-size: 20px;
+}
+
+#buttons {
+text-align: center;
+}
